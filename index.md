@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Site Title
+title: Dian Jin's Website
 description: A brief description of your site
 ---
 
