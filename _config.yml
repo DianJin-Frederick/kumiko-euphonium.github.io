@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -52,3 +53,19 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
