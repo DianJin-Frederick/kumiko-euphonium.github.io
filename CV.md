@@ -4,4 +4,4 @@ title: CV
 permalink: /CV
 ---
 
-{%  pdf"/assets/pdf/CV_Dian_Jin.pdf" width=800px height=1000px %}
+[Dian Jin's CV](/assets/pdf/CV_Dian_Jin.pdf)
