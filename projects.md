@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Project
-permalink: /project
+title: Projects
+permalink: /projects
 ---
-
-
+## Selected Projects
 ### Real Analysis Problem Set (实分析习题讲义) 
 [github链接](https://github.com/kumiko-euphonium/Real-Analysis-Problem-Set-LaTeX)
 
@@ -26,3 +25,10 @@ permalink: /project
 
 这是我2022年4月~2023年1月自学实分析时录制的视频的配套讲义. 实分析1, 2为手写笔记, 实分析3为pdf讲义. 
 
+
+## All Projects
+<ul>
+    {% for project in site.projects %}
+    <li><a href = "{{ project.url }}" class = "project-preview">{{ project.title }}</a></li>
+    {% endfor %}
+</ul>
