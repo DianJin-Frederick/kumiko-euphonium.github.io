@@ -1,11 +1,9 @@
 ---
-#layout: default
 layout: post
-title: Projects
-permalink: /projects
+title:  "实分析习题课讲义(中文)"
+date:   2023-02-27 14:38:42 -0600
+categories: Analysis
 ---
-## Selected Projects
-### Real Analysis Problem Set (实分析习题讲义) 
 [github链接](https://github.com/kumiko-euphonium/Real-Analysis-Problem-Set-LaTeX)
 
 本项目为开源的实分析习题集, 大家可以直接编辑.tex文件, 打造最适合自己的习题集. 
@@ -17,22 +15,4 @@ permalink: /projects
 
 部分习题取自UW-Madison 2022 Fall的研究生实分析课程(Math 721)的作业题, 教授为Andreas Seeger. 
 
-模板为[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook).
-
-
-
-### Real Analysis Lecture Notes (实分析讲义) 
-[github链接](https://github.com/kumiko-euphonium/Real-Analysis-Lecture-Notes)
-
-这是我2022年4月~2023年1月自学实分析时录制的视频的配套讲义. 实分析1, 2为手写笔记, 实分析3为pdf讲义. 
-
-
-## All Projects
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+模板为[ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)

@@ -4,4 +4,4 @@ title: CV
 permalink: /CV
 ---
 
-### under construction
+{% pdf "/assets/pdf/CV_Dian_Jin.pdf" width=800px height=1000px %}
