@@ -6,7 +6,7 @@ permalink: /projects
 ---
 ## Selected Projects
 ### Real Analysis Problem Set (实分析习题讲义) 
-[github链接](https://github.com/kumiko-euphonium/Real-Analysis-Problem-Set-LaTeX)
+[github链接](https://github.com/kumiko-euphonium/Real-Analysis-Problem-Set-LaTeX)<br>
 [pdf(持续更新中)](/assets/pdf/RAproblemSet_Mar_12.pdf)
 
 本项目为开源的实分析习题集, 大家可以直接编辑.tex文件, 打造最适合自己的习题集. 
