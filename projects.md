@@ -6,8 +6,9 @@ permalink: /projects
 ---
 ## Selected Projects
 ### Real Analysis Problem Set (实分析习题讲义) 
-[github链接](https://github.com/kumiko-euphonium/Real-Analysis-Problem-Set-LaTeX)<br>
-[pdf(持续更新中)](/assets/pdf/RAproblemSet.pdf)
+[github](https://github.com/kumiko-euphonium/Real-Analysis-Problem-Set-LaTeX)<br>
+[pdf(updating)](/assets/pdf/RAproblemSet.pdf) 
+
 
 本项目为开源的实分析习题集, 大家可以直接编辑.tex文件, 打造最适合自己的习题集. 
 大量的自定义命令位于macros.tex中, 请大家复制一份以保证我写的部分能够正常运行, 同时写一份自己喜欢的自定义命令.
@@ -22,11 +23,10 @@ permalink: /projects
 
 
 
-### Real Analysis Lecture Notes (实分析笔记) 
+### Real Analysis Notes 
 [github链接](https://github.com/kumiko-euphonium/Real-Analysis-Lecture-Notes)
 
-这是我2022年4月~2023年1月自学实分析时录制的视频的笔记. 实分析1, 2为手写笔记, 实分析3为pdf笔记. 
-
+This is my learning note of real analysis.
 
 ## All Projects
 <ul>
