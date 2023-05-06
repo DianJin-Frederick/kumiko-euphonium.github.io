@@ -11,10 +11,7 @@ permalink: /
 ---
 |![myphoto](/assets/images/Mendota.png)|
 
-I am interested in Fourier analysis, probability theory, machine learning. 
+I am interested in Fourier analysis, probability theory, machine learning, control theory.
 I am also extremely enthusiastic about mathematical education! 
 
 
-
-
-Click "Project" to see more information.
