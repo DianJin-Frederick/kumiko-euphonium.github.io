@@ -9,7 +9,7 @@ title: Dian Jin
 permalink: /
 
 ---
-|![myphoto](/assets/images/myphoto.png)|
+|![myphoto](/assets/images/Mendota.png)|
 
 I am interested in Fourier analysis, probability theory, machine learning. 
 I am also extremely enthusiastic about mathematical education! 
